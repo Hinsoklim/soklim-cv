@@ -313,5 +313,11 @@ form{
     .contact-right{
         width:100%;
     }
+    .father h1,.mother h1,.brother h1,.son h1{
+        font-size: small;
+    }
+    .text-name h1{
+        font-size: x-large;
+    }
 }
 
