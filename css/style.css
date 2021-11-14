@@ -306,4 +306,12 @@ form{
     }
 }
 
+@media(max-width:360px){
+    .center-nav ul{
+        flex-wrap: wrap;
+    }
+    .contact-right{
+        width:100%;
+    }
+}
 
