@@ -304,11 +304,15 @@ form{
     .contact-right{
         width: 70%;
     }
+    .father h1,.mother h1,.brother h1,.son h1{
+        font-size: 1.1rem;
+    }
 }
 
 @media(max-width:360px){
     .center-nav ul{
         flex-wrap: wrap;
+
     }
     .contact-right{
         width:100%;
