@@ -324,4 +324,12 @@ form{
         font-size: x-large;
     }
 }
+@media(max-width:375px){
+    nav .center-nav ul{
+        flex-wrap: wrap;
+    }
+    .contact-right{
+        width: 100%;
+    }
+}
 
